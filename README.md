@@ -1,17 +1,10 @@
 # Android-Developer-Interview
 
-A social networking App for Developers
-
-Clone repository or download 
-Start backend endand front end servers on local host port 5000 and 3000 respectively 
-Deploy App on Heroku for testing ..enjoy
-
-![welcomePage](https://user-images.githubusercontent.com/37632283/59257761-7e7cc080-8c2e-11e9-99f3-0d7bae258978.PNG)
-
-![profile](https://user-images.githubusercontent.com/37632283/59258304-a15ba480-8c2f-11e9-8c11-936e0a678c36.PNG)
-![devmenu](https://user-images.githubusercontent.com/37632283/59258309-a3256800-8c2f-11e9-9c05-3e7be42f563b.PNG)
-
+A Quiz  App for Developers
+ enjoy!!!!!!!!!!!!!!!!!!!!!
 
 ![firstpage](https://user-images.githubusercontent.com/37632283/66761365-c5f4b100-ee9b-11e9-9f34-43c632f3579e.PNG)
 
 ![page2](https://user-images.githubusercontent.com/37632283/66761431-e886ca00-ee9b-11e9-8454-ba89907366c0.PNG)
+
+![page3](https://user-images.githubusercontent.com/37632283/66761478-03593e80-ee9c-11e9-863b-6127d0b2edb1.PNG)
