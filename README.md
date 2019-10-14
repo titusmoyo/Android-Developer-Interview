@@ -13,3 +13,5 @@ Deploy App on Heroku for testing ..enjoy
 
 
 ![firstpage](https://user-images.githubusercontent.com/37632283/66761365-c5f4b100-ee9b-11e9-9f34-43c632f3579e.PNG)
+
+![page2](https://user-images.githubusercontent.com/37632283/66761431-e886ca00-ee9b-11e9-8454-ba89907366c0.PNG)
