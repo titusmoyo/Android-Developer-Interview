@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="buttWhiteColor">#ffffff</color>
+    <color name="myBlack_color">#000</color>
+    <color name="showCorrectColor">#26B62B</color>
+    <color name="greenButt">#77D67A</color>
+    <color name="qsnColor">#A71F1F</color>
+    <color name="thin_line">#777070</color>
+    <color name="qsn_color">#B11212</color>
+    <color name="exp_color">#192FAF</color>
+    <color name="correct_color">#22A327</color>
+</resources>

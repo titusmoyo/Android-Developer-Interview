@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frontpage_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/myTapBar"
+        android:orientation="vertical"
+        android:background="@drawable/questiontitlebar"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_gravity="center"
+            android:paddingLeft="15dp"
+            android:textSize="17sp"
+            android:textColor="@color/buttWhiteColor"
+            android:text="Udacity Android Developer Interview Questions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bsq"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/myTapBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="138dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/sq"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/udacity3" />
+
+</RelativeLayout>
